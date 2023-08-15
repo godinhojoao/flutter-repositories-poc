@@ -1,0 +1,15 @@
+<plist version="1.0">
+<dict>
+    <key>com.apple.security.app-sandbox</key>
+    <true/>
+
+    <!-- Add ATS settings here -->
+    <key>com.apple.security.network.client</key>
+    <true/>
+    <key>com.apple.security.network.server</key>
+    <true/>
+    <key>com.apple.security.network.microphone</key>
+    <true/>
+    <!-- Add other entitlements you need -->
+</dict>
+</plist>
